@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/00ad9cbd7cb842c5ac356a08c30707b0/artifacts
+end_time: 1596189442334
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 00ad9cbd7cb842c5ac356a08c30707b0
+run_uuid: 00ad9cbd7cb842c5ac356a08c30707b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1596189414414
+status: 3
+tags: []
+user_id: Chico

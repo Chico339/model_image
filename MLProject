@@ -1,0 +1,5 @@
+name: kedro mlflow image example
+conda_env: C:\Users\Chico le bg\PycharmProjects\test3\test_image\.kedro.yml
+entry_points:
+  main:
+    command: "kedro run"
